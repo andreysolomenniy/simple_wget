@@ -8,7 +8,7 @@ simple wget written as test for Scorum
 
 ## Build from source:
 ```
-$ git clone git@gitlab.com:andrey.solomenniy/simple_wget.git
+$ git clone github.com/andreysolomenniy/simple_wget.git
 $ cd simple_wget
 $ go mod tidy
 $ go build
